@@ -31,13 +31,13 @@ POST /api/v1/validate
 ```
 GET /metrics
 ```	
--produces: json
+- produces: json
 
 *shutdown*
 ```
 POST /shutdown
 ```	
--produces: json
+- produces: json
 
 # REST Server
 
